@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         testForGitBranch();
         testForConflict();
+        testForConflict2();
         setContentView(R.layout.activity_main);
     }
 
