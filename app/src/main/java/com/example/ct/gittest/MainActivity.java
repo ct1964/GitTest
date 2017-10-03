@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity {
     private void testForConflict() {
 
     }
+
+    private void testForConflict2() {
+
+    }
 }
