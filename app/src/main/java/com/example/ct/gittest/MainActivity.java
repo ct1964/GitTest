@@ -14,4 +14,12 @@ public class MainActivity extends AppCompatActivity {
     private void testForGitBranch() {
 
     }
+
+    private void testForConflict() {
+
+    }
+
+    private void testForConflict2() {
+
+    }
 }
